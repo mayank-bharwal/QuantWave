@@ -31,9 +31,42 @@ This Python script implements an intraday trading strategy, merging GARCH daily 
 ![Screenshot 2024-01-07 at 12 41 15 AM](https://github.com/mayank-bharwal/Intraday-GARCH-strategy-in-Python/assets/119955673/5b2bbe4e-717a-439f-b75d-f1ac65b27127)
 
 
-### Notes:
+### GARCH:
 - The strategy combines GARCH for volatility forecasting with intraday technical indicators for robust decision-making.
 - Results may vary based on market conditions and simulated data.
+- A GARCH (Generalized Autoregressive Conditional Heteroskedasticity) trading strategy involves using statistical models to predict future volatility in financial markets. Here's a brief overview:
+
+1. **GARCH Models:**
+   - Model volatility as a dynamic, time-varying process.
+   - Uses past volatility to forecast future volatility.
+
+2. **Model Estimation:**
+   - Parameters are calibrated using historical price or return data.
+
+3. **Volatility Forecasting:**
+   - GARCH model provides estimates of future volatility.
+
+4. **Trading Signals:**
+   - Triggers based on forecasted volatility surpassing predefined thresholds.
+   - Signals may prompt position adjustments or risk hedging.
+
+5. **Risk Management:**
+   - Adjusts position sizes based on forecasted volatility.
+   - Considers transaction costs and adapts to changing market conditions.
+
+6. **Implementation Considerations:**
+   - Accounts for transaction costs and market frictions.
+   - Requires regular updates as new data becomes available.
+
+7. **Limitations:**
+   - Forecasting accuracy may be affected by unexpected events.
+   - Assumes stationarity in the underlying time series.
+
+8. **Backtesting and Evaluation:**
+   - Tests the strategy using historical data.
+   - Evaluates performance with metrics like risk-adjusted returns.
+
+Remember, while GARCH models provide insights into volatility, no model ensures future success. Traders should incorporate GARCH within a comprehensive risk management framework and stay informed about market dynamics.
 
 ### Author:
 Mayank Bharwal
