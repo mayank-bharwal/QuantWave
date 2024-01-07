@@ -68,7 +68,8 @@ This Python script implements an intraday trading strategy, merging GARCH daily 
 
 Remember, while GARCH models provide insights into volatility, no model ensures future success. Traders should incorporate GARCH within a comprehensive risk management framework and stay informed about market dynamics.
 
-![Screenshot 2024-01-07 at 1 24 55 AM](https://github.com/mayank-bharwal/Intraday-GARCH-strategy-in-Python/assets/119955673/c3de9065-024d-4914-b79e-cbbb8a297837)
+![Screenshot 2024-01-07 at 1 28 28 AM](https://github.com/mayank-bharwal/Intraday-GARCH-strategy-in-Python/assets/119955673/517eaee0-75dd-4bdd-a2fe-ab4b1b47d96e)
+
 
 
 
