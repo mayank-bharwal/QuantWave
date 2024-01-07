@@ -6,6 +6,9 @@ The script implements an intraday trading strategy, combining GARCH for daily vo
 ### Overview:
 This Python script implements an intraday trading strategy, merging GARCH daily volatility forecasting with intraday technical indicators. The strategy generates signals based on prediction premiums, combining daily and intraday data for enhanced decision-making.
 
+![Screenshot 2024-01-07 at 12 40 14 AM](https://github.com/mayank-bharwal/Intraday-GARCH-strategy-in-Python/assets/119955673/16e51cde-f4a8-43a0-a2b6-35b8f803b91b)
+
+
 ### Files:
 1. **`intraday_trading_strategy.py`**: Python script containing the intraday trading strategy implementation.
 
