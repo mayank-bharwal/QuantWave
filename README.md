@@ -77,6 +77,7 @@ source: Wikipedia
 Mayank Bharwal
 
 ### Date:
-7Th January,2024
+7th January,2024
 
-Feel free to reach out for any inquiries or improvements. Happy trading!
+Feel free to reach out for any inquiries or improvements. 
+Happy trading!
